@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\coding\c#\practical_three\bin\Debug\practical_three.exe.config
+C:\Users\Admin\Desktop\coding\c#\practical_three\bin\Debug\practical_three.exe
+C:\Users\Admin\Desktop\coding\c#\practical_three\bin\Debug\practical_three.pdb
+C:\Users\Admin\Desktop\coding\c#\practical_three\obj\Debug\practical_three.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\coding\c#\practical_three\obj\Debug\practical_three.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\coding\c#\practical_three\obj\Debug\practical_three.exe
+C:\Users\Admin\Desktop\coding\c#\practical_three\obj\Debug\practical_three.pdb

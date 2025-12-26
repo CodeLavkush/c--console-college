@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\coding\c#\practical_four\bin\Debug\practical_four.exe.config
+C:\Users\Admin\Desktop\coding\c#\practical_four\bin\Debug\practical_four.exe
+C:\Users\Admin\Desktop\coding\c#\practical_four\bin\Debug\practical_four.pdb
+C:\Users\Admin\Desktop\coding\c#\practical_four\obj\Debug\practical_four.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\coding\c#\practical_four\obj\Debug\practical_four.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\coding\c#\practical_four\obj\Debug\practical_four.exe
+C:\Users\Admin\Desktop\coding\c#\practical_four\obj\Debug\practical_four.pdb

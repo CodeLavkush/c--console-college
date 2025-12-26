@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\coding\c#\practical_one\bin\Debug\practical_one.exe.config
+C:\Users\Admin\Desktop\coding\c#\practical_one\bin\Debug\practical_one.exe
+C:\Users\Admin\Desktop\coding\c#\practical_one\bin\Debug\practical_one.pdb
+C:\Users\Admin\Desktop\coding\c#\practical_one\obj\Debug\practical_one.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\coding\c#\practical_one\obj\Debug\practical_one.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\coding\c#\practical_one\obj\Debug\practical_one.exe
+C:\Users\Admin\Desktop\coding\c#\practical_one\obj\Debug\practical_one.pdb

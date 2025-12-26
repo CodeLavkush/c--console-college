@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\coding\c#\practical_five\bin\Debug\practical_five.exe.config
+C:\Users\Admin\Desktop\coding\c#\practical_five\bin\Debug\practical_five.exe
+C:\Users\Admin\Desktop\coding\c#\practical_five\bin\Debug\practical_five.pdb
+C:\Users\Admin\Desktop\coding\c#\practical_five\obj\Debug\practical_five.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\coding\c#\practical_five\obj\Debug\practical_five.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\coding\c#\practical_five\obj\Debug\practical_five.exe
+C:\Users\Admin\Desktop\coding\c#\practical_five\obj\Debug\practical_five.pdb
